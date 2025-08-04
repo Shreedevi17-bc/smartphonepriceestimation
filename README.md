@@ -2,7 +2,7 @@
 
 A desktop application built using **Tkinter** and **scikit-learn** that predicts the price of a smartphone based on features like brand, RAM, storage, battery capacity, and camera megapixels.
 
-![Smartphone Price Estimator GUI](C:\Users\shree\OneDrive\Pictures\Screenshots\Screenshot 2025-05-25 145313.png) <!-- Optional: Add screenshot of the app -->
+![Smartphone Price Estimator GUI](Screenshot.png) 
 
 ---
 
@@ -87,7 +87,7 @@ smartphone_price_estimator/
 
 <!-- You can include an actual screenshot if available -->
 
-> ![App Preview](C:\Users\shree\OneDrive\Pictures\Screenshots\Screenshot 2025-05-25 145313.png)
+> ![App Preview](Screenshot.png)
 
 ---
 
